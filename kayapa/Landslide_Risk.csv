@@ -1,0 +1,500 @@
+﻿Name,LS_Rating,Shape_Leng,GS_intensi,Licquifact,int_desc,G_Rapture,Swift,Shape_Length,Shape_Area,Point_Count,Join_ID
+TUBUNGAN,High,5662.327100180000343,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,5910.867787988401687,340717.618319612927735,3,1
+TUBUNGAN,High,2340.853985700000067,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2440.710082930550470,37.542642769716693,0,2
+TUBUNGAN,High,7730.503247339999689,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,8068.578249903344840,1514177.460642867488787,0,3
+TUBUNGAN,High,2683.897267710000051,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2798.334054419581207,35.802116680706959,0,4
+TUBUNGAN,Moderate,11112.605832600000213,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,11605.864979308949842,1513140.613254161318764,131,5
+TUBUNGAN,Moderate,572.081834842000035,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,596.492100768659952,1.543829819143760,0,6
+TUBUNGAN,Moderate,4862.168456940000397,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,5073.622034630117014,810738.445062076440081,0,7
+TUBUNGAN,Not,3883.325177709999934,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,4060.737759304227438,161913.359243207116378,6,8
+TUBUNGAN,High,2082.998004479999963,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2175.264520357168749,17411.622139464925567,1,9
+TUBUNGAN,High,237.977669141000007,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,248.235149493629564,1553.336510826578888,0,10
+TUBUNGAN,Moderate,1094.427092630000061,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,1146.211906555568703,5759.437759417960478,0,11
+TUBUNGAN,Moderate,4501.812954250000075,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4701.928304768160160,39665.112648281836300,1,12
+TUBUNGAN,Moderate,1385.852080370000067,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,1444.888776130126871,13559.340197595462087,0,13
+TUBUNGAN,Not,527.246967818000030,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,552.229020933351762,2542.878566952887923,0,14
+TUBUNGAN,Not,268.086983631999999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,,280.829010633448661,1364.100636821133321,0,15
+TUBUNGAN,Not,2928.902706819999821,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,3063.654283761227816,31097.020322871441749,0,16
+TUBUNGAN,Not,142.958664661000000,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,149.758199477588107,347.687140821935259,0,17
+TUBUNGAN,Not,79.586830921900003,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,Swift Prone,83.277493964283877,287.106576933647489,0,18
+TIDANG VILLAGE,High,34233.198354499996640,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,35790.042815701010113,14279143.427373096346855,8,19
+TIDANG VILLAGE,High,1407.062943169999926,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1466.928819138810468,0.589031787286042,0,20
+TIDANG VILLAGE,Moderate,6660.169104900000093,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,6973.239283810334200,158853.973300663405098,0,21
+TIDANG VILLAGE,Not,2535.805019079999965,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2652.549249661862632,51639.372216907853726,0,22
+TIDANG VILLAGE,Not,121.292014567999999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,126.726543090216765,0.053483091690094,0,23
+TIDANG VILLAGE,Low,53.299294886699997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,55.732435143369763,29.053703693210188,0,24
+TIDANG VILLAGE,High,6437.910347830000319,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,6746.894647509369861,33103.670389729304588,0,25
+TIDANG VILLAGE,High,19462.126358199999231,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,20323.134455598708882,229027.515555737831164,0,26
+TIDANG VILLAGE,High,955.675362393999990,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,997.031729738839999,0.486618758909522,0,27
+TIDANG VILLAGE,Moderate,1374.059739519999994,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,1439.820674075592933,5162.117862415296258,0,28
+TIDANG VILLAGE,Moderate,6553.679721540000173,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,6860.274830408960042,84584.756216469904757,0,29
+TIDANG VILLAGE,Not,8186.863139310000406,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,8568.975297245133333,181732.371576088073198,0,30
+TIDANG VILLAGE,Not,39.204288052999999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,40.960810332488307,0.017286277017590,0,31
+TIDANG VILLAGE,Low,46.776421249199998,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,48.888617662766087,62.606474336800069,0,32
+TIDANG VILLAGE,Low,223.653822827999988,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,233.710799508532915,766.696023923185294,0,33
+TIDANG VILLAGE,High,219.782871196000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,229.992769582486858,758.650433989298335,0,34
+TIDANG VILLAGE,Moderate,512.585128165000015,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,537.091357146189011,2335.016632776462302,0,35
+TIDANG VILLAGE,Low,17.469510940500001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,18.267900764267939,8.377684951966490,0,36
+TALICABCAB,High,14033.202011900000798,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,14675.705486383438256,2244413.390324613545090,5,37
+TALICABCAB,High,220.555596669000010,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,229.804533981440500,0.240089386846080,0,38
+TALICABCAB,High,32107.542316999999457,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,33559.684166618004383,11834469.301289064809680,54,39
+TALICABCAB,High,3125.434206630000062,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,3256.508266479052963,3.402337193955407,0,40
+TALICABCAB,High,1706.879055560000097,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1783.393075096948678,0.706854964974380,0,41
+TALICABCAB,Moderate,5434.439665009999771,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,5686.505390303553213,463018.866288857068866,9,42
+TALICABCAB,Moderate,2955.319398189999902,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,3091.599169183319191,138060.549835183250252,4,43
+TALICABCAB,Not,295.050753509000003,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,308.059514423946439,5200.729366946061418,4,44
+TALICABCAB,High,6319.343408210000234,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,6606.809038766785307,125401.616748791726422,0,45
+TALICABCAB,High,16379.403480900000432,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,17115.231767112923990,395483.908636315609328,0,46
+TALICABCAB,High,226.341511195000010,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,236.484779798506139,0.181338011536086,0,47
+SAN FABIAN,High,198.320689132000012,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,206.632996124358129,0.695888680730923,0,48
+SAN FABIAN,High,15350.023126300000513,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,16024.363646801048162,2273613.596029870212078,9,49
+SAN FABIAN,High,73.345024269800007,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,76.468744693881121,0.031016539843647,0,50
+SAN FABIAN,Moderate,356.178157763000002,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,372.085812075587398,3530.420395707572425,0,51
+SAN FABIAN,Moderate,236.990410432000004,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,247.491144290508316,0.089671560764095,0,52
+SAN FABIAN,Moderate,2974.802893319999839,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,3105.305066847201033,77703.939166784562985,11,53
+SAN FABIAN,Moderate,28417.710545800000546,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,29671.144920521346648,3440086.745303046889603,28,54
+SAN FABIAN,Moderate,1671.391382719999910,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1745.424724445115999,0.632387493037028,0,55
+SAN FABIAN,Moderate,2175.814041820000057,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2272.106975965233232,0.955787786773501,0,56
+SAN FABIAN,Not,10715.122942100000728,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,11191.742927304019759,767542.949001824716106,98,57
+SAN FABIAN,Not,6838.941017629999806,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,7140.058511214740975,196138.355339358997298,2,58
+SAN FABIAN,Not,20.109838908499999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,20.990388098931867,0.007981004817260,0,59
+SAN FABIAN,Low,9054.503264790000685,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,9460.811555228583529,280000.002845655661076,21,60
+SAN FABIAN,Low,15283.395308299999670,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,15966.957787973780796,1141435.597251778235659,52,61
+SAN FABIAN,Low,83.440804425699994,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,86.994470146224103,0.035286158951566,0,62
+SAN FABIAN,High,713.378017060000047,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,743.722699980710217,3030.144439123506800,0,63
+SAN FABIAN,High,3252.141188969999803,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,3395.069554583259105,33146.552068862074520,0,64
+SAN FABIAN,Moderate,2196.756639230000019,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,2295.092177773602543,16406.001843413654569,1,65
+SAN FABIAN,Moderate,4759.074851569999737,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4968.460698115089144,38275.494428636833618,0,66
+SAN FABIAN,Moderate,149.307633965999997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,155.912740757922364,0.065579070764842,0,67
+SAN FABIAN,Not,11241.791034100000616,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,11741.072527755828560,721880.864143900573254,4,68
+SAN FABIAN,Not,6152.872589220000009,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,6424.448038219498812,126007.546224617210100,0,69
+SAN FABIAN,Not,782.107922299000052,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,815.468688144022167,0.305687868952644,0,70
+SAN FABIAN,Low,4255.522696429999996,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,4445.835561927126946,41376.151513620498008,2,71
+SAN FABIAN,Low,3877.963234629999988,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4054.320538161305649,35060.637712126750557,1,72
+PINGKIAN,High,1248.229229349999969,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,1305.707027857944922,16486.246767472566717,0,73
+PINGKIAN,High,101148.086148000002140,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,105738.899698091961909,36188670.487803108990192,298,74
+PINGKIAN,Moderate,941.316743865000035,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,983.367114470646015,8914.447335168513746,0,75
+PINGKIAN,Moderate,19224.632703600000241,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,20097.484183099550137,1993010.694629794685170,7,76
+PINGKIAN,Not,2765.577913109999827,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,2889.838444852246994,87393.341911860465189,0,77
+PINGKIAN,Not,12857.559091400000398,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,13433.901678445645302,488909.182838828128297,38,78
+PINGKIAN,Low,4339.378622360000008,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,4537.769353920140929,103482.198240210607764,0,79
+PINGKIAN,Low,29583.531076100000064,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,30926.607596852642018,1220762.259078369708732,79,80
+PINGKIAN,High,1491.802988590000041,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,1561.937802184224665,14497.289992456659093,0,81
+PINGKIAN,High,10974.165841399999408,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,11494.019342503630469,56607.150296233892732,0,82
+PINGKIAN,High,56199.657317199998943,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,58735.121564576482342,1396625.786991335917264,2,83
+PINGKIAN,Moderate,51.746297772600002,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,54.180331380384779,111.157833103204410,0,84
+PINGKIAN,Moderate,1368.326529350000101,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,1433.560591006315462,7358.206234222697276,0,85
+PINGKIAN,Moderate,389.667543196999986,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,408.074723667103058,2758.776900414449756,0,86
+PINGKIAN,Not,5261.400445690000197,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,5502.680663715173068,290076.305660071666352,0,87
+PINGKIAN,Not,318.054677148999986,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,332.891263955326963,1610.421336284613517,0,88
+PINGKIAN,Not,13377.939659400000892,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,13981.773621740218005,676310.574036117992364,4,89
+PINGKIAN,Low,3523.839457709999806,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,3687.472555632746207,46857.862253616694943,0,90
+PINGKIAN,Low,1215.585319309999932,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,1272.459556576313616,5004.328733296957580,0,91
+PINGKIAN,Low,13060.506958399999348,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,13658.426690933096324,288099.800157022487838,6,92
+PINGKIAN,High,1985.676773760000060,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,2079.410279762033497,7894.154056975935418,0,93
+PINGKIAN,Not,167.441609510999996,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,175.201467802614928,801.600480927315289,0,94
+PINGKIAN,Low,654.938517484000045,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,686.097806048203097,3081.434296310978425,0,95
+PINAYAG,High,18906.770137499999691,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,19790.153517258208012,3127343.563893829472363,0,96
+PINAYAG,High,1165.567329960000052,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1215.267092543780109,35.971266038484281,0,97
+PINAYAG,High,58425.307465099998808,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,61112.493294044237700,24922897.745723418891430,0,98
+PINAYAG,High,7567.374649280000085,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7889.959870094285179,180.854007566113467,0,99
+PINAYAG,Moderate,16261.039924599999722,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,17015.671091717154923,4241917.309732109308243,0,100
+PINAYAG,Moderate,629.980677278000030,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,656.844275283339130,5.004014356882490,0,101
+PINAYAG,Moderate,25377.674169000001712,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,26548.889047177272005,5564928.282821489498019,0,102
+PINAYAG,Not,1290.476770700000088,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1350.564504399891575,20081.037327127898607,0,103
+PINAYAG,Low,1665.482128890000013,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1741.134340046038915,105398.407731452869484,0,104
+PINAYAG,Low,1844.849504580000030,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1930.051645209437993,73188.231784405623330,0,105
+PINAYAG,High,2616.377544840000155,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2736.968295306907294,82992.011605480991420,0,106
+PINAYAG,High,20762.503348999998707,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,21717.403527242069686,480706.957698272657581,0,107
+PINAYAG,High,375.737136980000002,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,391.751538392702571,2.190115226453736,0,108
+PINAYAG,Moderate,4094.186932080000133,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4284.994745115479418,101042.725622804180603,0,109
+PINAYAG,Not,1372.785826900000075,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1435.973980204561030,30840.710215520310157,0,110
+PANGAWAN,High,17581.965906400000677,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2556.793412977139269,101.856070373037980,0,111
+PANGAWAN,Moderate,882.662778695000043,PEIS Intensity VIII,Not susceptible,Very destructive to devastating,,,924.686973563517768,2.240458412861224,0,112
+PANGAWAN,High,30137.005637700000079,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,31523.898263516548468,13313426.650828124955297,34,113
+PANGAWAN,High,14258.735418199999913,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,14938.482977394300178,499.400140481917219,0,114
+PANGAWAN,High,3679.583136180000110,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,3844.485100475865693,685916.527742484351620,0,115
+PANGAWAN,High,28.905679627700000,PEIS Intensity VIII,Not susceptible,Very destructive to devastating,Ambuklao fault line,,30.284125565295241,0.146096457431348,0,116
+PANGAWAN,Moderate,16953.957130599999800,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,17725.057463434568490,5608073.321055811829865,122,117
+PANGAWAN,Moderate,882.913637550999965,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,924.949392593669586,42.575618198347833,0,118
+PANGAWAN,Not,1273.927171190000081,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1332.356728589184968,24024.980519632172218,4,119
+PANGAWAN,Low,333.406702407000012,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,348.350128735178373,5411.639979057391429,5,120
+PANGAWAN,High,3296.519055149999986,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,,3454.971261157212211,17886.047583614737960,0,121
+PANGAWAN,High,8465.735909409999294,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,8854.028085234767786,83421.008442975915386,0,122
+PANGAWAN,High,29.166936195000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,,30.557509365065361,0.937759459391359,0,123
+PANGAWAN,Moderate,2093.269807919999948,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,,2193.240629759263356,10994.522961629580095,0,124
+PANGAWAN,Moderate,1254.590790420000076,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1313.126312348171268,10800.783125472693428,0,125
+PANGAWAN,Not,313.643638970999973,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,327.286092606762452,1620.980124661787613,0,126
+NANSIAKAN,High,1214.553002569999990,PEIS Intensity VII,Low susceptibility,Destructive Ground Shaking,,,1269.651217252778679,11151.671564066062274,0,127
+NANSIAKAN,High,69730.914963699993677,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,72899.727837415368413,25490783.497423619031906,0,128
+NANSIAKAN,Moderate,38475.771856100000150,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,40237.719074129265209,8467244.356102928519249,0,129
+NANSIAKAN,Not,1522.828809549999960,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1593.522840397740538,85692.655093313267571,0,130
+NANSIAKAN,High,1517.305875000000015,PEIS Intensity VII,Low susceptibility,Destructive Ground Shaking,,Swift Prone,1585.515039476129004,75240.001721573120449,0,131
+NANSIAKAN,High,27955.125026900001103,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,29220.741510154337448,716210.813204872305505,0,132
+NANSIAKAN,Moderate,1920.066498930000080,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,2005.763588935441476,32983.157520915243367,0,133
+MAPAYAO,High,824.685596120000014,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,864.400330501396752,1.096521224819139,0,134
+MAPAYAO,High,471.845516765000013,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,492.186447095369488,5771.682079544047156,0,135
+MAPAYAO,High,29528.422969600000215,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,30868.069009994196676,8122964.862642300315201,3,136
+MAPAYAO,High,575.817746296999985,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,603.538413839503619,1.264935364845666,0,137
+MAPAYAO,High,28127.921911900000850,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,29403.200384617070085,10287158.661590561270714,0,138
+MAPAYAO,High,561.281222878999984,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,587.922674681488388,0.782486309678623,0,139
+MAPAYAO,Moderate,1157.314929959999972,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,1208.466098634054788,45653.213423459746991,0,140
+MAPAYAO,Moderate,294.484206702999984,PEIS Intensity VIII,Moderate susceptibi*,Very destructive to devastating ground shaking,,,307.885203014432079,2297.884762556737314,0,141
+MAPAYAO,Moderate,18530.435789800001658,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,19367.481989791904198,3878545.450475452933460,0,142
+MAPAYAO,Moderate,2135.834829190000164,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2237.325599179263918,9.402968274597777,0,143
+MAPAYAO,Moderate,883.719480737000026,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,922.546717992215235,0.922844381640628,0,144
+MAPAYAO,Moderate,1104.327118910000081,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1157.469396074839551,1.021146360915736,0,145
+MAPAYAO,Moderate,18875.843820599999162,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,19721.963085627237888,4380143.789628601633012,0,146
+MAPAYAO,Moderate,1066.838668229999939,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1117.495599335582483,6.183775090700583,0,147
+MAPAYAO,Moderate,275.437273602000005,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,287.536827005334260,0.287625619216669,0,148
+MAPAYAO,Low,4294.926310099999682,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,4488.602151986364333,305449.627014146593865,0,149
+MAPAYAO,Low,2864.784325460000218,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2995.277348264593911,226290.929895116831176,0,150
+MAPAYAO,High,876.858911064000040,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,915.325221486281862,22219.168889776414289,0,151
+MAPAYAO,High,197.717257848999992,PEIS Intensity VIII,Moderate susceptibi*,Very destructive to devastating ground shaking,,Swift Prone,206.788749998295941,2427.623517710521355,0,152
+MAPAYAO,High,2578.218114629999945,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2700.590373426543920,27409.351344310671266,0,153
+MAPAYAO,High,36.331772026199999,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,38.045210466709968,18.795310473595070,0,154
+MAPAYAO,Moderate,772.244482701000038,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,806.195025914711437,7197.776988492983037,0,155
+MAPAYAO,Moderate,109.908956915000005,PEIS Intensity VIII,Moderate susceptibi*,Very destructive to devastating ground shaking,,Swift Prone,114.638923640320172,340.905732028535681,0,156
+LAWIGAN,High,5377.880166099999769,PEIS Intensity VIII,Not susceptible,Very destructive to devastating,,,5625.067109796321347,38.234767113039617,0,157
+LAWIGAN,High,115032.599700000006123,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,120237.019085102772806,56564295.250211574137211,0,158
+LAWIGAN,High,425.978342956000006,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,445.573593471215986,2.481454901094894,0,159
+LAWIGAN,High,85359.805347700006678,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,89226.365762955247192,27465322.130305871367455,0,160
+LAWIGAN,Moderate,20610.148396900000080,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,21537.885007883396611,2018992.725865115644410,0,161
+LAWIGAN,Moderate,18711.463714599998639,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,19560.824516380034765,2587816.247981247957796,0,162
+LAWIGAN,Not,21771.618083599998499,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,22760.966830831010157,875852.601016668486409,0,163
+LAWIGAN,Not,595.201154317000032,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,619.933330558472107,214.178370782526173,0,164
+LAWIGAN,Low,13695.221005100000184,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,14325.364079292881797,560086.918890758533962,0,165
+LAWIGAN,Low,411.888884066000003,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,429.015259919722041,135.717979546205328,0,166
+LAWIGAN,High,9907.305008929999531,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Tebbo fault line,,10369.515489705518121,49236.071528328007844,0,167
+LAWIGAN,High,63092.460484000002907,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,65913.933618622308131,679709.332961714244448,0,168
+LAWIGAN,High,21.779594246700000,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Tebbo fault line,,22.777424025844201,0.126149514952574,0,169
+LAWIGAN,High,16783.546071299999312,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,17547.702307581308560,281018.757911064545624,0,170
+LAWIGAN,Not,5503.287149169999793,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Tebbo fault line,,5761.152286826380987,25902.536292869041063,0,171
+LAWIGAN,Not,30953.756797300000471,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,32339.960428986236366,962090.670119263697416,0,172
+LAWIGAN,Low,3860.839872430000014,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Tebbo fault line,,4041.719518029214669,17653.884717085071316,0,173
+LAWIGAN,Low,3406.677886890000082,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,3561.524654721808474,15743.178093352873475,0,174
+LAWIGAN,Low,22.293324869599999,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Tebbo fault line,,23.227048114306811,7.217600690754737,0,175
+LAWIGAN,High,59.493440792400001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Tebbo fault line,Swift Prone,62.156405223538101,200.949161575057559,0,176
+LAWIGAN,Not,1024.185064790000069,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Tebbo fault line,Swift Prone,1072.266727378457290,4417.966088800470970,0,177
+LAWIGAN,Low,397.973886800999992,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Tebbo fault line,Swift Prone,416.679352748009364,1409.882929222524808,0,178
+LATBANG,High,171.662263714000005,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,179.194400244058386,0.111921691444072,0,179
+LATBANG,High,5532.672033990000273,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,5788.529495051854610,494833.510664286324754,0,180
+LATBANG,High,2622.214780400000109,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2744.230753840816760,303.825663781526032,0,181
+LATBANG,High,45214.604565100002219,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,47271.563934595316823,20177029.072715200483799,0,182
+LATBANG,High,7181.597656289999577,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7516.228396545997384,485.950171960915213,0,183
+LATBANG,Moderate,3093.084079690000181,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,3236.175581415119723,235980.152631764678517,0,184
+LATBANG,Moderate,2009.569900349999898,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2102.927006087264090,68.632328852605198,0,185
+LATBANG,Moderate,4340.493355460000203,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,4538.729129421758444,472342.891267672181129,0,186
+LATBANG,Moderate,651.560254467000050,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,681.846613980812890,49.014238664087181,0,187
+LATBANG,Not,552.986158164000017,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,577.828348377188604,16871.021046903162642,0,188
+LATBANG,High,536.572451376000004,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,560.035692690652468,0.212077913475597,0,189
+LATBANG,High,29110.276826900000742,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,30437.733093833401654,464263.753551334433723,0,190
+KAYAPA PROPER WEST,High,1053.534898269999985,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1097.515255917909826,12.687931091855049,0,191
+KAYAPA PROPER WEST,High,12203.600814999999784,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,12754.788683634287736,1641128.834602014860138,0,192
+KAYAPA PROPER WEST,High,564.749665443000026,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,591.576728636044436,2.435325441617792,0,193
+KAYAPA PROPER WEST,High,1260.579085569999961,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1317.084392124123042,36003.687383106684138,0,194
+KAYAPA PROPER WEST,High,5957.086847589999707,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,6205.733505132349819,65.202691684267435,0,195
+KAYAPA PROPER WEST,High,10284.471169599999484,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,10774.387940899703608,49.121271305038150,0,196
+KAYAPA PROPER WEST,High,58794.922401800002262,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,61443.072082381804648,17405776.261047706007957,0,197
+KAYAPA PROPER WEST,Moderate,15868.905213899999580,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,16571.423488087788428,1276245.390206786803901,1,198
+KAYAPA PROPER WEST,Moderate,22697.086920599998848,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,23714.984298889314232,2397081.372008488513529,0,199
+KAYAPA PROPER WEST,Moderate,81.906415260200006,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,85.609931383191082,0.032382120308739,0,200
+KAYAPA PROPER WEST,Not,16719.054924200001551,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,17468.166133944439935,1450614.821695330087095,4,201
+KAYAPA PROPER WEST,High,97.754935765100001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,101.835737615949242,0.107320381300397,0,202
+KAYAPA PROPER WEST,High,7116.389739449999979,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,7437.451120053604427,174592.713394794147462,0,203
+KAYAPA PROPER WEST,High,192.675952990000013,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,201.829196407334962,1.241155099870333,0,204
+KAYAPA PROPER WEST,High,540.354602377999981,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,564.225233225853799,10274.152101986685011,0,205
+KAYAPA PROPER WEST,High,322.803433271000017,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,338.168841267649668,2.008369526367852,0,206
+KAYAPA PROPER WEST,High,30850.111186400001316,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,32243.470836673917802,677114.137406188063323,0,207
+KAYAPA PROPER WEST,Moderate,420.940932926000016,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,440.562249696214337,2037.311549165101951,0,208
+KAYAPA PROPER WEST,Moderate,6087.812947549999990,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,6356.568201012732061,43156.096159785760392,0,209
+KAYAPA PROPER WEST,Moderate,11608.777721899999960,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,12133.399848760116583,94380.591389780805912,0,210
+KAYAPA PROPER WEST,Moderate,80.102654479999998,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,83.724610705784073,0.031667721189191,0,211
+KAYAPA PROPER WEST,Not,2628.529149190000226,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,2752.281835992539982,13997.537240591153022,0,212
+KAYAPA PROPER WEST,Not,10543.911873999999443,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,10544.561368456072159,129851.721025624778122,0,213
+KAYAPA PROPER WEST,Moderate,198.686112589999993,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,207.881386965782752,215.744526034670372,0,214
+KAYAPA PROPER WEST,Not,174.506836063999998,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,182.432956478540461,570.913323047516087,0,215
+KAYAPA PROPER EAST,High,50258.503405600000406,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,52559.249404225403850,12440607.238778162747622,0,216
+KAYAPA PROPER EAST,Moderate,11334.243349700000181,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,11857.008525570034180,1052128.997588354162872,0,217
+KAYAPA PROPER EAST,Not,2542.969980710000073,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2656.737975606371037,101714.432590343771153,0,218
+KAYAPA PROPER EAST,High,4033.828166979999878,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,4224.587726956366168,21683.244711381583329,0,219
+KAYAPA PROPER EAST,High,2043.208592239999916,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,2140.584254375838100,8404.168324742226105,0,220
+KAYAPA PROPER EAST,High,23264.146005300000979,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,24331.914911221610964,657706.297168376157060,0,221
+KAYAPA PROPER EAST,Moderate,500.980913439999995,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,524.510011728604582,2514.494876041929274,0,222
+KAYAPA PROPER EAST,Moderate,2910.514543010000125,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,3043.170952555693930,52330.119574685450061,0,223
+KAYAPA PROPER EAST,Not,2277.302068380000037,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2380.907581074455720,43336.095128061322612,0,224
+KAYAPA PROPER EAST,High,240.223712191999994,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,251.420868563094587,1032.164212434356614,0,225
+KAYAPA PROPER EAST,High,3345.709202579999783,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,3505.274707343274713,15801.409963732077813,0,226
+KAYAPA PROPER EAST,Moderate,253.538772990000012,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,265.392066109957057,1205.320965096450436,0,227
+CASTILLO VILLAGE,High,3207.280296509999971,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,3347.317930184417037,1.909487740230605,0,228
+CASTILLO VILLAGE,High,22899.494596199998341,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,23955.664545762447233,6641763.567068201489747,28,229
+CASTILLO VILLAGE,Moderate,13453.259832199999437,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,14070.426067629841782,1009219.804238170152530,116,230
+CASTILLO VILLAGE,Not,19.216314478099999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,20.055686014656580,0.007960675799044,0,231
+CASTILLO VILLAGE,Not,2360.245535699999891,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2469.529267968754084,35179.314702378840593,11,232
+CASTILLO VILLAGE,High,579.604102495999996,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,604.906599940603314,0.494999998800878,0,233
+CASTILLO VILLAGE,High,1365.293373539999948,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,1431.033788982495025,7355.983141633107152,0,234
+CASTILLO VILLAGE,High,784.314919887999963,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,821.963510113223265,2307.097980290598571,0,235
+CASTILLO VILLAGE,High,224.030887229000001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,234.753702283853727,1085.577131853958463,0,236
+CASTILLO VILLAGE,High,8911.235359259999314,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,9324.970937640448028,94577.719461593471351,0,237
+CASTILLO VILLAGE,Moderate,1569.854329719999896,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,1645.482936330418624,7711.871600990710249,0,238
+CASTILLO VILLAGE,Moderate,4146.978866520000338,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4332.306668004330277,28506.840285536552983,2,239
+CASTILLO VILLAGE,Not,93.407832417700007,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,97.488324917099902,0.038702288177682,0,240
+CASTILLO VILLAGE,Not,198.849066088000001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,208.316620022537080,672.810322239394395,0,241
+CASTILLO VILLAGE,Not,5320.843924419999894,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,5572.038239344243266,99262.042766603815835,4,242
+CASTILLO VILLAGE,High,1094.888024650000034,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,1147.506823817863278,4356.668816815923492,0,243
+CASTILLO VILLAGE,Moderate,312.571452958999998,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,327.305768466396671,1100.187667900908082,0,244
+CASTILLO VILLAGE,Not,46.721982306299999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,48.889752386566769,83.470085490938686,0,245
+CABAYO,High,2622.047565299999860,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2744.056482221557872,2.178606174956431,0,246
+CABAYO,High,7179.542640429999665,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7514.076211658237298,3.434914249477414,0,247
+CABAYO,High,115021.670731999998679,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,120366.943228080912377,33542455.378552187234163,0,248
+CABAYO,High,6949.496453470000233,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,7257.082903227647876,209.779625412324322,0,249
+CABAYO,High,53982.511854700002004,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,56465.246266781803570,18633355.500263459980488,0,250
+CABAYO,High,1683.963860569999952,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1758.607953888809334,36.915355369960324,0,251
+CABAYO,Moderate,651.346619489999966,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,681.622012450787338,0.270426711318972,0,252
+CABAYO,Moderate,42685.490438200002245,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,44654.151267105451552,8076665.287329238839447,0,253
+CABAYO,Moderate,503.632437359999983,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,525.946539418266184,31.421990581908037,0,254
+CABAYO,Moderate,17370.800955200000317,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,18178.410969767730421,2135296.937094296794385,0,255
+CABAYO,Moderate,803.244296107999958,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,838.838524619521877,43.488439493376717,0,256
+CABAYO,High,12334.633557299999666,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,12928.144939469206292,65994.766909963203943,0,257
+CABAYO,High,852.897436224999979,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,894.536085952825715,4564.861060617498879,0,258
+CABAYO,High,40427.952152300000307,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,42314.508900645079848,811660.818517384817824,0,259
+CABAYO,High,78.585554156900002,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,,82.222952373516819,201.456695279002048,0,260
+CABAYO,High,19288.498403400000825,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,20183.258064220401138,371140.125618396792561,0,261
+CABAYO,Moderate,49.629763123499998,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,51.941720976740243,141.987875036671994,0,262
+CABAYO,Moderate,1743.722066549999909,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,,1828.887757224418465,9309.420752973648632,0,263
+CABAYO,Moderate,409.868158993000009,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,,429.408484062108982,2050.701047043809012,0,264
+CABAYO,Moderate,1674.647005750000062,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,1749.985001542929012,14908.877220850246886,0,265
+CABAYO,High,1052.587107079999896,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,1103.388376012527488,4989.427735025461516,0,266
+CABAYO,Moderate,70.687197937500002,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,Swift Prone,74.075735126864728,262.102418704509205,0,267
+CABALATAN ALANG,High,50770.132786000001943,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,53096.282741726201493,18289640.754680134356022,110,268
+CABALATAN ALANG,Moderate,2923.611560010000176,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,3061.464218206232999,297327.334623808157630,0,269
+CABALATAN ALANG,High,3100.035817970000153,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,3242.071033534833532,16152.728895624313736,0,270
+CABALATAN ALANG,High,3448.863579509999909,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,3613.465473789700354,17214.294545590841153,0,271
+CABALATAN ALANG,High,30572.815901800000574,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,31974.893632257193531,1049434.512646986404434,0,272
+CABALATAN ALANG,High,821.670591994999995,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,859.533265171090989,3841.294132482949863,0,273
+CABALATAN ALANG,High,3733.072084530000211,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,3911.010636834931574,17210.730711665542913,0,274
+BUYASYAS,High,26569.612172699999064,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,27760.349915054059238,11658188.360532755032182,0,275
+BUYASYAS,High,2075.988670289999845,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2172.417512236181210,2310.312002327945720,0,276
+BUYASYAS,Moderate,5857.335774770000171,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,6122.232643509759328,1392250.543239761376753,0,277
+BUYASYAS,Moderate,866.624620034000031,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,906.916785680592625,631.023838795973802,0,278
+BUYASYAS,Low,1920.709000609999975,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2007.093388756406512,116830.857212275281199,0,279
+BUYASYAS,High,3108.412889209999776,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,3256.743993692614822,16511.040119617533492,0,280
+BUYASYAS,High,4557.955436620000000,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4769.416166034342496,140708.527234876179136,0,281
+BUYASYAS,High,452.473874120999994,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,473.969190019547227,2019.449989839995851,0,282
+BINALIAN,High,34044.938742199999979,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,35604.580921484550345,9368768.547637801617384,0,283
+BINALIAN,High,6872.282542979999562,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7185.377715448329582,1501191.539470554096624,0,284
+BINALIAN,Moderate,28274.449362999999721,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,29565.305279592150328,6948063.266731837764382,1,285
+BINALIAN,Moderate,1434.815385619999915,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1499.998341243574032,89228.195594497126876,0,286
+BINALIAN,Not,5936.453108509999765,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,6208.879018030307634,183132.423766444611829,0,287
+BINALIAN,Low,5793.139145789999930,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,6057.700112417574019,306668.787903919699602,0,288
+BINALIAN,High,16266.208426900000632,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,17015.059413527698780,190643.451288740528980,0,289
+BINALIAN,High,705.073791740000047,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,736.114106985977969,15088.964012272143009,0,290
+BINALIAN,Moderate,11952.815830100000312,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,12493.685740314145733,223412.234294601512374,0,291
+BINALIAN,Not,7894.519671340000059,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,8260.546567622641305,221688.719422395981383,0,292
+BINALIAN,Low,956.665960506000033,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1000.336999151984401,5344.053495019783441,0,293
+BINALIAN,High,62.809015969699999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,65.771611773821206,215.125285848105847,0,294
+BESONG,High,12769.940422300000137,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,13345.299968922781773,1249452.261641871649772,10,295
+BESONG,High,600.723783978000029,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,627.110060504096623,0.741375173690068,0,296
+BESONG,High,7346.642062949999854,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7673.396601468208246,1016333.599049802054651,2,297
+BESONG,High,732.899493911000036,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,765.084554740972067,0.928271562398273,0,298
+BESONG,Moderate,23790.617008400000486,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,24867.737197829461365,3405206.803988606669009,190,299
+BESONG,Not,8581.133544430000256,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,8975.067641540983459,182953.744267224654322,17,300
+BESONG,High,1998.341346890000068,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2087.382023854317595,16699.316034191255312,0,301
+BESONG,High,1314.767487139999957,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,1372.267685147990733,16106.426875660115911,0,302
+BESONG,High,70.486678496099998,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,73.582162301512426,0.102179173168993,0,303
+BESONG,Moderate,58.716913141699997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,61.462753183540677,167.737740241053501,0,304
+BESONG,Moderate,193.022346282999990,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,202.076178531531355,829.492590058483756,0,305
+BESONG,Moderate,797.089929133000055,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,835.144575110776373,4040.394115818739010,0,306
+BESONG,Moderate,804.558492613999988,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,842.233593483796994,3775.157050370411980,0,307
+BESONG,Moderate,544.877586479999991,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,570.995205171582597,2422.125824212458156,1,308
+BESONG,Moderate,14235.486592299999757,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,14880.118415924824149,163451.207726750551956,12,309
+BESONG,Not,1435.663846019999937,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,1503.790738388752288,6695.292292657502912,1,310
+BESONG,Not,350.074843450999992,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,366.763659627645893,1563.440668750162558,0,311
+BESONG,Not,8807.488562500000626,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,9212.270016941491122,158460.107947669748683,11,312
+BESONG,Moderate,172.361262379999999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,180.475265987041951,627.080690118293546,0,313
+BESONG,Moderate,208.164914011999997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,217.944520244751232,909.614410649993602,0,314
+BESONG,Moderate,510.897704323000028,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,535.091965377650240,2375.964481845397131,0,315
+BESONG,Moderate,339.362328830000024,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,355.125708783979974,1322.836630043240802,0,316
+BESONG,Moderate,54.081479065700002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,56.604627684241464,160.420914458305106,0,317
+BESONG,Not,187.207003345000004,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,195.994102635913066,922.778513039633140,0,318
+BESONG,Not,1359.993230009999934,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,1423.930896792189287,6593.453651745401658,0,319
+BESONG,Not,580.039731599999982,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,607.823020080464744,2941.515785588550898,0,320
+BANAO,High,13.865272903999999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,14.471163790642334,0.005630205187393,0,321
+BANAO,High,170.858710774000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,178.396984237738565,0.106137006736911,0,322
+BANAO,High,6621.270897790000163,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,6941.072741755887364,115.878615959087611,0,323
+BANAO,High,131279.730469000001904,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,137417.825444193527801,43770483.365779712796211,0,324
+BANAO,High,2357.445630780000101,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2471.124352533920501,58.287227800792159,0,325
+BANAO,High,2488.688243789999888,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2607.440664558163462,209333.878144051006529,0,326
+BANAO,High,53.492377802500002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,55.785616744113852,0.021221462414213,0,327
+BANAO,Moderate,193.910936695000004,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,203.293005720121840,0.132066291014575,0,328
+BANAO,Moderate,30569.383019799999602,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,31989.134238398215530,5125885.134482920169830,0,329
+BANAO,Not,3695.707750730000043,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,3869.430199829098456,33028.772922157848370,0,330
+BANAO,High,224.266604747000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,234.067546608450357,0.091084518036381,0,331
+BANAO,High,838.057681196999965,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,875.810867882468187,0.387994287015434,0,332
+BANAO,High,13035.463461900000766,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,13667.682544218254407,66430.683635412351578,0,333
+BANAO,High,16999.247325799999089,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,17826.221404982650711,92354.793477466882905,0,334
+BANAO,High,71199.345029899996007,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,74496.826189972809516,1034089.082679078099318,0,335
+BANAO,High,364.887688964999995,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,380.529255073593561,0.144761618605107,0,336
+BANAO,Moderate,1077.414742899999965,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,1129.833100586375394,5679.070041940261945,0,337
+BANAO,Not,12633.342232499999227,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,13225.613386129896753,262838.846419638546649,0,338
+BANAO,High,31.040824155900001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,32.471845406757829,0.024367431070672,0,339
+BANAO,High,3522.145201840000027,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,3692.645714285594750,14972.602557169553620,0,340
+BANAO,High,484.042957618999992,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,507.279070333304219,1470.260148735394296,0,341
+BANAO,Not,138.383967517000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,145.089563593586945,119.117469019527917,0,342
+BALETE,High,13876.517449099999794,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,14479.784834486343243,1592.828393918623988,0,343
+BALETE,Moderate,2117.782506410000224,PEIS Intensity VIII,Not susceptible,Very destructive to devastating,,,2209.767650154436978,73.431381994622171,0,344
+BALETE,Not,1411.062527860000046,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1472.363461620431508,205.276204423114194,0,345
+BALETE,High,31639.985502999999881,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,33138.080995745112887,20746714.792660128325224,0,346
+BALETE,High,1399.333484329999919,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1460.100553826408486,50.041405460197694,0,347
+BALETE,High,142873.037646000011591,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,149522.191224982467247,62854708.651037588715553,0,348
+BALETE,High,20.652898677300001,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,,21.551649920616924,0.479377354581386,0,349
+BALETE,High,176.225038622999989,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,183.890534904867508,3.817824448455644,0,350
+BALETE,Moderate,503.404365844999973,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,525.706941483510604,0.209609939488019,0,351
+BALETE,Moderate,802.927460377999978,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,838.506305949864782,0.334334649484178,0,352
+BALETE,Moderate,20488.479175799999211,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,21454.797223440069502,6922774.173781121149659,0,353
+BALETE,Moderate,1645.270815600000105,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1716.730028229536401,186.104322318687082,0,354
+BALETE,Moderate,38904.432335299999977,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,40721.920838795020245,5528723.289067430421710,0,355
+BALETE,Not,2703.079986950000148,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2833.066424871532945,326314.559583259222563,0,356
+BALETE,Not,4815.530763020000450,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,5043.489016639734473,914919.394715933362022,0,357
+BALETE,High,14038.915149099999326,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,,14725.565406212497692,71784.632407779179630,0,358
+BALETE,High,7650.216065700000399,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap potential fau*,,8027.775865176731713,41757.584286963581690,0,359
+BALETE,High,71950.074282899993705,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,75277.070000137857278,1566333.901000091340393,0,360
+BALETE,Moderate,562.148296697999967,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,588.178746837903191,7156.734730403069079,0,361
+BALETE,Moderate,4194.709031630000027,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,4386.342536690630368,59348.475792967561574,0,362
+BALETE,High,5920.225013539999964,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,Hapap fault line,Swift Prone,6210.317106757247529,26802.383391218580073,0,363
+BALANGABANG,High,3188.008912899999814,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,3329.560293769716736,1.272674572073674,0,364
+BALANGABANG,High,24724.057494799999404,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,25853.410716809394216,4700096.443401929922402,28,365
+BALANGABANG,High,274.400182299999983,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,286.357122288773496,0.163440054750885,0,366
+BALANGABANG,Moderate,382.932238257999984,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,399.925131081578911,0.152851164121751,0,367
+BALANGABANG,Moderate,27339.577913900000567,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,28593.353457182678540,3638726.372795853763819,117,368
+BALANGABANG,Moderate,760.616930157999946,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,793.765139789528575,0.453045637380539,0,369
+BALANGABANG,Not,8355.484774430000471,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,8742.455747304969918,287132.781107653863728,18,370
+BALANGABANG,High,71.825499705599995,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,75.017242687364643,0.029178808317347,0,371
+BALANGABANG,High,2534.704557279999790,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,,2656.926749248441865,13703.204204238927559,0,372
+BALANGABANG,High,994.726685738000015,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,1041.767334069716298,5322.875354199535650,0,373
+BALANGABANG,High,7437.287794490000124,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,7779.397910437945029,82577.324500156086287,0,374
+BALANGABANG,Moderate,2731.120447809999860,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,,2861.931304982052097,14385.459402909704295,0,375
+BALANGABANG,Moderate,2505.312232100000074,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,2622.596431849104647,13275.410289648340040,0,376
+BALANGABANG,Moderate,4763.659913389999929,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4982.654154665925489,38441.138637207193824,0,377
+BALANGABANG,Not,70.479099996900004,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,73.610993193908982,0.028632263720419,0,378
+BALANGABANG,Not,290.017117121000013,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,,303.805770432904296,1068.514960626199809,0,379
+BALANGABANG,Not,322.366454053999973,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,337.664368248145536,1204.736319961324625,0,380
+BALANGABANG,Not,6446.689203779999843,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,6746.129730837862553,51903.376510618450993,1,381
+BALANGABANG,High,187.193219612999997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,196.115657254132600,811.924140764239951,0,382
+BALANGABANG,Moderate,52.065344614799997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,Swift Prone,54.550765503832437,48.848183679618586,0,383
+BALANGABANG,Moderate,52.852452612900002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,55.257660464742330,181.070698280556826,0,384
+BALANGABANG,Not,5.583344590370000,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Hapap fault line,Swift Prone,5.832182658495576,1.476456888610714,0,385
+BALANGABANG,Not,112.639503297000005,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Ambuklao fault line,Swift Prone,117.924898300859340,308.848559207513745,0,386
+BALANGABANG,Not,186.197497555000012,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,195.053592641758371,776.159386169457434,0,387
+BABADI,High,722.645932881000022,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,753.315133590387063,2.187890723520875,0,388
+BABADI,High,23601.320945700001175,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,24678.397007356434187,5892273.780308444052935,0,389
+BABADI,High,2378.561157780000030,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,2479.517380608026087,7.201400308652483,0,390
+BABADI,High,7459.354735650000293,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7794.087806515522061,1278513.959422178333625,0,391
+BABADI,Moderate,13.515565561000001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,14.111278978748897,0.007818461857195,0,392
+BABADI,Moderate,26272.415283499998623,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,27484.094348576865741,6886106.402463737875223,0,393
+BABADI,Moderate,1795.144283209999912,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1878.681025824123935,41604.900025863709743,0,394
+BABADI,Not,3608.982975909999823,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,3772.195169136337881,139354.428733253385872,0,395
+BABADI,Low,4692.657549509999626,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,4906.562337713917259,206309.340466512832791,0,396
+BABADI,Low,477.065181241999994,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,499.424047928205653,8096.765558848489491,0,397
+BABADI,High,4542.344812739999725,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4746.052260651963479,127148.424976757873083,0,398
+BABADI,High,1270.784676340000033,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,1328.718236453978307,19675.496589509213663,0,399
+BABADI,Moderate,321.720596053000008,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,335.907614273307615,0.130096762793448,0,400
+BABADI,Moderate,7968.572156539999924,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,8331.260533559796386,122886.067037910019280,0,401
+BABADI,Not,2585.876095189999887,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2702.696417040109736,62411.168207399525272,0,402
+BABADI,Low,1025.575039730000071,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1071.316071748384502,17304.278204705591634,0,403
+BAAN,High,23707.210626899999625,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,24800.270871439119219,6855675.392739318311214,16,404
+BAAN,Moderate,237.007459923999988,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,247.508935172553151,0.236085357286251,0,405
+BAAN,Moderate,844.768901737999954,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,884.406325953920714,25094.670585146221129,0,406
+BAAN,Moderate,1671.385075639999968,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1745.418200593654092,1.664939239571237,0,407
+BAAN,Moderate,36950.965692799996759,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,38641.243030395642563,10347236.434186499565840,85,408
+BAAN,Not,22467.200206099998468,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,23491.764536698159645,1139740.246149833546951,27,409
+BAAN,Low,49696.401621099998010,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,51962.053373093833216,3695079.822411008179188,93,410
+BAAN,High,4720.439968960000442,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4937.454569411858756,83808.004536035106867,0,411
+BAAN,Moderate,1597.572992899999917,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1671.116158958544929,8142.508629657853817,0,412
+BAAN,Not,13653.820444799999677,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,14275.757995237510841,324238.887977499223780,4,413
+BAAN,Low,16019.436082500000339,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,16751.222779767846077,326351.691896739706863,1,414
+ANSIPSIP,High,41725.619616999996651,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,43601.017521461297292,22398172.838437780737877,11,415
+ANSIPSIP,Moderate,3519.818660830000226,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,3679.636891110576016,419816.646614958182909,0,416
+ANSIPSIP,Not,412.134158800000023,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,430.313018913035705,4519.517948069812519,1,417
+ANSIPSIP,Low,597.417420221000043,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,624.116022299599990,16500.936486460068409,0,418
+ANSIPSIP,High,13920.390595499999108,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,14547.287019720020908,277077.617838498845231,0,419
+AMELONG LABENG,High,41154.697892099997262,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,43037.784879058308434,12477015.537875585258007,8,420
+AMELONG LABENG,Moderate,10492.953783299999486,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,10975.286591046076865,1229534.513030829140916,1,421
+AMELONG LABENG,High,3680.377074170000014,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,3855.631514711611089,19121.650579951405234,0,422
+AMELONG LABENG,High,4490.352504469999985,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,4705.738456486496943,24268.914414140894223,0,423
+AMELONG LABENG,High,16182.271172599999773,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,16909.536085465388169,282141.655772934434935,0,424
+AMELONG LABENG,Moderate,657.722443012999975,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,689.238583574034124,2490.017278831923250,0,425
+AMELONG LABENG,Moderate,864.334131501000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,905.343685571113042,4578.751438612473066,0,426
+AMELONG LABENG,Moderate,2331.143540260000009,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2439.943508486885094,31437.956250043738692,0,427
+AMELONG LABENG,High,451.543633100000022,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,473.172062209328317,1474.775399098446542,0,428
+AMELONG LABENG,Moderate,493.954565473999992,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,517.613092664547253,1930.077620174765798,0,429
+ALANG SALACSAC,High,48295.351509699998132,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,50500.777430691785412,12956696.230930678546429,0,430
+ALANG SALACSAC,High,4449.613229919999867,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,4657.607486288625296,126.021277083686513,0,431
+ALANG SALACSAC,High,892.027562870999986,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,932.193805717180226,9.879680865982852,0,432
+ALANG SALACSAC,High,11407.077142500000264,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,11918.104544367490234,1269214.253459027502686,0,433
+ALANG SALACSAC,High,6794.917994499999622,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7113.154053415801172,271.280800492165042,0,434
+ALANG SALACSAC,High,7373.108655789999830,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7705.660195000197746,82.012492076094247,0,435
+ALANG SALACSAC,High,77685.490433900005883,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,81149.084976902464405,44746024.353816665709019,0,436
+ALANG SALACSAC,Moderate,18362.682712099998753,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,19185.284346549058682,4099401.666794557590038,0,437
+ALANG SALACSAC,Moderate,3564.660088000000087,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,3728.314372574372101,655933.611174028250389,0,438
+ALANG SALACSAC,High,6478.899365549999857,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,6785.522674675613416,34707.603853167565831,0,439
+ALANG SALACSAC,High,11075.800460599999496,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,11580.633131029113429,266941.697897496924270,0,440
+ALANG SALACSAC,High,195.778785008999989,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,204.955449214366780,0.709238195551563,0,441
+ALANG SALACSAC,High,4613.277256360000138,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4816.216956119287715,98427.459276942448923,0,442
+ALANG SALACSAC,High,50.803691804800003,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,53.094936526877134,0.582139139731135,0,443
+ALANG SALACSAC,High,48530.207843900003354,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,50694.202432321399101,1142510.669011898571625,0,444
+ALANG SALACSAC,Moderate,238.201563225999990,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,249.327875036963007,1138.308212108473072,0,445
+ALANG SALACSAC,Moderate,1275.584306349999906,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1330.687560937893977,12919.844020526941677,0,446
+ALANG SALACSAC,Moderate,790.633585217000018,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,824.970376105529908,3281.026800669530076,0,447
+ALANG SALACSAC,High,389.246564902999978,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,407.641901163512330,1889.501675470012970,0,448
+ALANG SALACSAC,Moderate,9.580209043809999,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,10.029301978970082,0.344888284446092,0,449
+ACACIA,High,621.747316774999945,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,650.424423545302488,0.685226688521652,0,450
+ACACIA,High,17428.611396299998887,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,18213.859353004569130,4283683.352082191035151,3,451
+ACACIA,High,1922.530963949999887,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,2015.087544575417951,4.179215580425437,0,452
+ACACIA,High,1004.572573720000037,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1050.922250022777462,1.107157009481278,0,453
+ACACIA,High,20633.271548699998675,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,21563.562195457267080,8193408.978875149972737,155,454
+ACACIA,High,1903.225207140000066,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,1994.937330059186479,4.137425796078539,0,455
+ACACIA,Moderate,597.119328018000033,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,623.868918619943543,8687.315542282931347,0,456
+ACACIA,Moderate,16202.941916699999638,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,16921.267921234619280,2785939.162208672147244,41,457
+ACACIA,Moderate,762.132961783000042,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,796.528404595512484,27731.463219790170115,0,458
+ACACIA,Not,538.406751469000028,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,561.851703835658554,6531.283788224416639,2,459
+ACACIA,Not,6127.210950659999980,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,6397.514514806263833,193931.471106274373597,3,460
+ACACIA,High,3894.993403800000124,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4075.334483291686865,58927.591739943025459,0,461
+ACACIA,High,10204.119594699999652,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,10662.057956608381573,251091.701227872952586,1,462
+ACACIA,Moderate,114.244503003999995,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,119.589117014493198,542.746619410135395,0,463
+ACACIA,Moderate,4006.957168049999837,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4183.016440775917545,61251.247420451276412,2,464
+ACACIA,Not,507.601359146999982,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,Swift Prone,530.022466077934837,9053.851120699939202,2,465
+ACACIA,Not,4159.469163089999711,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,4342.139677009007755,91889.358070079761092,1,466
+PAMPANG,High,201.605420165999988,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,210.461904080612953,0.076668238311857,0,467
+PAMPANG,High,320.395635325000001,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,334.466855944845122,0.130435922554940,0,468
+PAMPANG,High,9999.389851269999781,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,10455.474422047007465,567194.280176072265022,17,469
+PAMPANG,High,6827.272909620000064,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,7130.435089277902080,656116.952530655078590,1,470
+PAMPANG,Moderate,12844.197043500000291,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,13424.535735579722314,821309.414310071268119,224,471
+PAMPANG,Moderate,592.675976804000015,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,619.570230606469522,20151.625447104484920,0,472
+PAMPANG,Not,7340.949487419999969,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,7675.196149900607452,289542.941679197247140,90,473
+PAMPANG,High,40.597819592800001,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,42.381447110124483,0.015438307818834,0,474
+PAMPANG,High,70.454253971000000,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,73.548309960594253,0.028681835452346,0,475
+PAMPANG,High,726.390511207000031,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,761.217300172027876,3817.078705076354709,0,476
+PAMPANG,High,2433.178159799999776,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,2542.973991487490366,14774.839269418243930,1,477
+PAMPANG,High,892.855171908999978,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,932.767432147329828,8093.180611117880289,0,478
+PAMPANG,Moderate,1957.041119600000002,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,2049.134239306146355,10251.087876404624694,0,479
+PAMPANG,Moderate,3294.294048260000181,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,3439.984307523730422,25848.647148863117764,3,480
+PAMPANG,Not,211.598611409000000,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,,221.293311530398370,745.330538176977370,0,481
+PAMPANG,Not,5430.015837040000406,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,5675.772306048510472,83183.354039080921211,16,482
+PAMPANG,Moderate,72.642975759799995,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,75.843054807926080,141.390542555340915,0,483
+PAMPANG,Not,109.943909435999998,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,Digdig fault line,Swift Prone,114.898448194191985,326.321147836722389,0,484
+CABANGLASAN,High,965.467745164999997,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1010.798983480797233,0.757553488691911,0,485
+CABANGLASAN,High,23892.972067099999549,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,24985.164930784096214,8536386.111994184553623,0,486
+CABANGLASAN,High,566.154891507999992,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,592.728477324428013,0.444224555620167,0,487
+CABANGLASAN,High,3729.223113890000150,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,,3902.635979594338096,680880.496471707709134,0,488
+CABANGLASAN,Moderate,6942.575229819999549,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,7258.262870215114162,689538.994498567422852,0,489
+CABANGLASAN,Not,1418.722643849999940,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,1484.828903885808586,10091.426888521493311,0,490
+CABANGLASAN,High,14815.908145800000057,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,15491.255634148481477,157819.571564294834388,0,491
+CABANGLASAN,High,472.682898555000008,PEIS Intensity VII,Not susceptible,Destructive Ground Shaking,,Swift Prone,493.379364191814204,5043.845185481554836,0,492
+CABANGLASAN,Moderate,1476.958852109999953,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,1545.441772851776250,11243.665642889556693,0,493
+CABANGLASAN,Not,8334.269143109999277,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,Swift Prone,8722.285752916579440,281040.948428525007330,0,494
+MAPAYAO,Moderate,242.434315336999987,PEIS Intensity VIII,Low susceptibility,Very destructive to devastating ground shaking,,,253.325583460261214,106.222368573551080,0,495
+MAPAYAO,Moderate,242.434315336999987,PEIS Intensity VIII,Moderate susceptibi*,Very destructive to devastating ground shaking,,,253.325583460261214,106.222368573551080,0,496
+BALETE,High,21000.000111000001198,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,22035.470958064914157,53.088845049031079,0,497
+BALETE,High,21000.000111000001198,PEIS Intensity VIII,Not susceptible,Very destructive to devastating ground shaking,,,22035.470958064914157,53.088845049031079,0,498
+PANGAWAN,High,17581.965906400000677,PEIS Intensity VIII,Not susceptible,,,,15863.137141586101279,72.048772961005639,0,499
